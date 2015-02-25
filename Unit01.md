@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA005: Calculus 1"
+course_description: "An introduction to functions, graphs, limits, continuity, and derivatives, and the relationship between derivatives and graphs."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Preview and Review** <span id="1"></span> 
 *While a first course in calculus can strike you as something new to
 learn, it is not comparable to learning a foreign language where

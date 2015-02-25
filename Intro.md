@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA005: Calculus 1"
+course_description: "An introduction to functions, graphs, limits, continuity, and derivatives, and the relationship between derivatives and graphs."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "MA005: Calculus 1"
 ---------------------------------------
 

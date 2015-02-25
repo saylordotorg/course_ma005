@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA005: Calculus 1"
+course_description: "An introduction to functions, graphs, limits, continuity, and derivatives, and the relationship between derivatives and graphs."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Derivatives and Graphs** <span id="4"></span> 
 *A visual person should find this unit extremely helpful in
 understanding the concepts of calculus, as a major emphasis in this unit

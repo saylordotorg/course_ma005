@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA005: Calculus 1"
+course_description: "An introduction to functions, graphs, limits, continuity, and derivatives, and the relationship between derivatives and graphs."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Functions, Graphs, Limits, and Continuity** <span
 id="2"></span> 
 *The concepts of continuity and the meaning of a limit form the

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA005: Calculus 1"
+course_description: "An introduction to functions, graphs, limits, continuity, and derivatives, and the relationship between derivatives and graphs."
+next: ../../../
+previous: ../Unit05
+---
 **Unit 6: Appendix** <span id="6"></span> 
 *By reviewing and having access to this unit, you will have an
 invaluable list of references to assist you in solving future calculus

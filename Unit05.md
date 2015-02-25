@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA005: Calculus 1"
+course_description: "An introduction to functions, graphs, limits, continuity, and derivatives, and the relationship between derivatives and graphs."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Integral** <span id="5"></span> 
 *While previous units dealt with* differential calculus*, this unit
 starts the study of* integral calculus*. As you may recall, differential
